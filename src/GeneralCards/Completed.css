@@ -1,0 +1,11 @@
+.completed {
+    margin-left: 100px;
+    border-right: 1px solid rgb(209, 197, 197);
+}
+.completed > h1 {
+    color: #20B15A;
+}
+.completed > img{
+    /* padding-left: 10px; */
+    margin-left: 10px;
+}

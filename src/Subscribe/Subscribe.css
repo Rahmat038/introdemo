@@ -1,0 +1,47 @@
+.good{
+    /* align-items: center; */
+    /* align-content: center; */
+    padding: 100px;
+    margin-left: 500px;
+}
+.good > h3{
+    color: #20B15A;
+    margin-left: 100px;
+}
+.good > h2{
+    font-size: 30px;
+    font-weight: 600px;
+    align-items: center;
+    /* font-family: poppins; */
+}
+.good > .input > input{
+    width: 50%;
+    height: 40px;
+    border-radius: 13px 0px 0px 13px;
+    border-right: none;
+}
+.good > .input  > button{
+    background-color: #F55F1D;
+    height: 40px;
+    border-radius: 0px 13px 13px 0px;
+    border: none;
+    color: white;
+    position: absolute;
+    /* left: 105%; */
+    /* top: 4px; */
+    /* bottom: 4px; */
+    padding: 0 24px;
+    /* margin-right: 100px; */
+}
+.input {
+    padding-top: 20px;
+    position: relative;
+}
+.good > h1{
+    align-items: center;
+    font-size: 1.5em;
+    font-weight: 700;
+}
+.good > h1 > br{
+    align-items: center;
+}

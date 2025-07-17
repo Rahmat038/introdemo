@@ -1,0 +1,10 @@
+.logos{
+   background-color: #FFFFFF;
+    max-width: 1440px;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    padding-block: 50px;
+    padding-inline: 30px;
+    width: 96%;
+}

@@ -1,0 +1,6 @@
+.model{
+    margin-left: 200px;
+}
+.model > .span{
+    padding: 20px;
+}

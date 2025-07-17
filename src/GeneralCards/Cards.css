@@ -1,0 +1,8 @@
+.minicards{
+    display: flex;
+    background-color: #FAFFFB;
+    padding: 200px;
+    /* height: 420px; */
+    max-width: 1440px;
+    width: 100%;
+}

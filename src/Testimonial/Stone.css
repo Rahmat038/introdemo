@@ -1,0 +1,9 @@
+.service > .minicircle{
+    display: flex;
+}
+.service{
+    border-radius: 20px;
+    width: 420px;
+    background-color: white;
+    
+}

@@ -1,0 +1,7 @@
+.raised{
+    margin-left: 100px;
+    border-right: 1px solid rgb(209, 197, 197);
+}
+.raised > h1{
+    color: #20B15A;
+}

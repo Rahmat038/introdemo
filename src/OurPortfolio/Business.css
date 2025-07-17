@@ -1,0 +1,16 @@
+.whole > .up{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+.whole > .down{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+/* .whole > .down > Agency { */
+    /*  */
+/* } */
+.whole{
+    padding: 50px;
+}

@@ -1,0 +1,16 @@
+.banner{
+    background-color:#D7F5DC ;
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    flex-direction: column;
+    display: flex;
+    padding-bottom: 50px;
+}
+.sides{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* padding-inline: 0px; */
+    width: 100%;
+}
